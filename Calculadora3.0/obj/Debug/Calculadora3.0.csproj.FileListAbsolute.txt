@@ -1,0 +1,8 @@
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\bin\Debug\Calculadora3.0.exe.config
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\bin\Debug\Calculadora3.0.exe
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\bin\Debug\Calculadora3.0.pdb
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\obj\Debug\Calculadora3.0.csproj.AssemblyReference.cache
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\obj\Debug\Calculadora3.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\obj\Debug\Calculadora3.0.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\obj\Debug\Calculadora3.0.exe
+C:\Users\eduardo.obinoki\source\repos\Calculadora3.0\obj\Debug\Calculadora3.0.pdb
